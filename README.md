@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working on **Optical Fiber**
 
-- 🌱 I’m currently learning **Machine 
-g**
+- 🌱 I’m currently learning **Machine learning**
 
 - 💬 Ask me about **Machine Learning**
 
