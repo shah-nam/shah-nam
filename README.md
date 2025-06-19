@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shah Nam</h1>
+<h1 align="center">Hi 👋, I'm Shah Nam</h1>
 <h3 align="center">A passionate Electrical Engineer from Pakistan</h3>
 <img align="right" alt="coding"width="400" src="https://d25thuhsbcr6yb.cloudfront.net/m/s/24699/24689528/a-0115.jpg"
 
